@@ -11,10 +11,10 @@ if ($err) {
 }
 
 
-$result=$client->call('sendSMS', array('appCode'=>'CLD','messageBody'=>'baha','mobileNo'=>'+21695860772'));
+$result=$client->call('sendSMS', array('appCode'=>$appcode,'messageBody'=>$message,'mobileNo'=>$identifier));
 
 
-    print_r($result);
+  //  print_r($result);
 
 
 }
