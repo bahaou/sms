@@ -1,0 +1,9 @@
+{
+ "db_name": "_3c10b4fd14d0c0dd",
+ "db_password": "123456",
+ "db_type": "mariadb",
+ "maintenance_mode": 0,
+ "pause_scheduler": 0,
+ "server_script_enabled": true,
+ "developer_mode": 1
+}
